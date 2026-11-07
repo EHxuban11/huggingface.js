@@ -988,7 +988,7 @@ export const MODEL_LIBRARIES_UI_ELEMENTS = {
 		repoUrl: "https://github.com/LibreYOLO/libreyolo",
 		docsUrl: "https://www.libreyolo.com/docs",
 		snippets: snippets.libreyolo,
-		filter: false,
+		filter: true,
 		countDownloads: `path_extension:"pt" OR path_extension:"pth" OR path_extension:"ckpt" OR path_extension:"onnx" OR path:"config.json" OR path:"model_index.json" OR path:"pipeline.json"`,
 	},
 	lightglue: {
